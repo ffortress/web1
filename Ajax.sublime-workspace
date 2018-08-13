@@ -1,0 +1,317 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"frontValue"
+			],
+			[
+				"lastVal",
+				"lastValueZ"
+			],
+			[
+				"freeze",
+				"freezeTransforms"
+			],
+			[
+				"select",
+				"selectedSrc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/StudyProject/CloudStation/Ajax"
+	],
+	"file_history":
+	[
+		"/F/StudyProject/CloudStation/Ajax/ex1.html",
+		"/F/StudyProject/Sublime_Projects/js.sublime-project",
+		"/Y/Dev_FO4/client/database/data/fifadatadb/fifa17/fifadatadb.build",
+		"/C/Users/hapark/Desktop/node.shader",
+		"/C/Users/hapark/Desktop/node.fx",
+		"/C/Users/hapark/Desktop/node.txt",
+		"/C/Users/hapark/Desktop/노드.txt",
+		"/C/Users/hapark/AppData/Local/Temp/1/p4v/APSEODESK411_apseo-p4d-fo4_1666/euclid/dev/client/database/data/fifadatadb/fifa17/fifadatadb#24.build",
+		"/F/AW_Stage_FO4/client/buildsys/build/runtime/pc64/data/fifarna/lua/assets/player.lua",
+		"/F/AW_Stage_FO4/client/render/interface/fifarna/fblite/data/lua/assets/player.lua",
+		"/F/StudyProject/Sublime_Projects/jsProject/Files/jsTest",
+		"/Y/Dev_FO4/client/betago/data/gfx_fifa/dev/build/config.json",
+		"/Y/GC/FIFA18_FO4/scripting/ea.custom.scripting/fifa/deploy.xml",
+		"/Y/GC/FIFA18_FO4_RosterUpdateCY2018/scripting/ea.custom.scripting/fifa/deploy.xml",
+		"/F/MS5_FO4/client/render/impl/fifashaders/rna2/shaders/common/pbr/cloth.fxh",
+		"/Y/Dev_FO4/client/render/impl/fifashaders/rna2/shaders/common/jersey.fx",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.Utilities.FIFA/18.00.69/shaders/dxt11/surfacing/lib/technique/simplecloth.fxh",
+		"/Y/GC/FIFA18_Mobile_FO3/shaders/common/common/header.fxh",
+		"/Y/GC/FIFA18_Mobile_FO3/shaders/common/common/techniques.fxh",
+		"/Y/Dev_FO4/client/render/data/datagfx/dev/cmn/data/sceneassets/rigamate/player_rigamate_skeleton_male.xml",
+		"/C/Users/hapark/Downloads/rebuilt_player_assets/player_rigamate_skeleton_male.xml",
+		"/Y/Dev_FO4/mobile/Client/dbcreate/metadb/buildsys/interface/gameconfig/dev-fifa/fmdata/fm_art_data.xml",
+		"/Y/Dev_FO4/mobile/Client/dbcreate/metadb/buildsys/interface/gameconfig/dev-fifa/fmdata/fm_common_data.xml",
+		"/Y/Dev_FO4/client/database/data/fifadatadb/fifa17/tools/AssetXlsMerge/1.00.00/AssetXlsMerge.build",
+		"/Y/Dev_FO4/client/database/data/fifadatadb/fifa17/scripts/initialize.xml",
+		"/Y/Dev_FO4/client/betago/data/gfx_fifa/dev/build-debug/config.json",
+		"/Y/Dev_FO4/client/betago/data/gfx_fifa/dev/data/config.json",
+		"/Y/FO4_Art/FO4Client/data/betago/config.json",
+		"/Y/Dev_FO4/mobile/Client/Main/resources/FMPData/data/config.json",
+		"/Y/Dev_FO4/mobile/Client/Main/resources/FMPPatch/data/config.json",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.Utilities.FIFA/18.00.69/maya/scripts/fifa_deleteextrauvs.mel",
+		"/Y/cadet/Internal.GameChangerPrerequisites/2015.1/SQLManagementStudio_x64/SQLManagementStudio_x64_ENU.zip",
+		"/Y/cadet/Artworks.RefCam/4.01.04/scripts/BS_refCamTools2.mel",
+		"/Y/cadet/Artworks.RefCam/4.01.04/scenes/refcam2.cfg",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.69/misc/number_font_index_creation/output/final.tga",
+		"/Y/cadet/Artworks.RefCam/4.01.04/python/refcam/refcam_ui.py",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.RefCam/4.01.04/python/__init__.py",
+		"/Y/cadet/Artworks.Frostbite.MayaPlugins.Python/fo4/RunRefcam.py",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.RefCam/4.01.04/scripts/refcam_config.mel",
+		"/Y/FO4_Art/outsourcing/Players/omar_gonzalez_190560/model/scene/refcam_190560.cfg",
+		"/Y/FO4_Art/outsourcing/Players/michael_parkhurst_164839/model/scene/refcam_164839.cfg",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.RefCam/4.01.04/scripts/refcam_projection.mel",
+		"/Y/FO4_Art/outsourcing/Package/Artworks.RefCam/4.01.04/scripts/launchRefcam.mel",
+		"/Y/cadet/External.Python.PyWin32/2.7/Assemblies/win32com/__init__.py",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.69/maya/scripts/fifa_hairlodtools.mel",
+		"/Y/FO4_Art/outsourcing/Package/Proxy.Maya/__init__.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/cmn/utils.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/cmn/__init__.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/ferender_converter/__init__.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/kit_number_generator/__init__.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/__init__.py",
+		"/Y/Test/shelf_EAK_OS_tool.mel",
+		"/D/Workspace/cadet/Artworks.Utilities.FIFA/18.00.69/maya/shelves/shelf_FifaCharacter.mel",
+		"/Y/Test/test.py",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.69/python/fifa_lashtool_v2.py",
+		"/Y/Test/mayaFirstInit.mel",
+		"/C/Program Files/Autodesk/Maya2016/scripts/shelves/shelf_EAK_OS_tool.mel",
+		"/Y/Test/mayaOpenPort.mel",
+		"/C/Users/hapark/Documents/maya/2016/scripts/fifa_gc.mel",
+		"/Y/Test/testHapark.py",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.69/maya/scripts/fifa_binddefaulthairweight.mel",
+		"/Y/Test/connectMaya.py",
+		"/C/MyPersonalData/hapark/maya/2016/prefs/shelves/shelf_EAK_OS_tool.mel",
+		"/C/Program Files/Autodesk/Maya2016/scripts/shelves/shelf_General.mel",
+		"/C/Users/hapark/Desktop/Head_Py/Head_Fo3Fo4conversion.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_conformheadFo3Fo4Transfer.py",
+		"/C/Users/hapark/Desktop/Head_Py/HeadScaleWorkTest.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/fifa_convertionheadgeoforFO4.py",
+		"/Y/cadet/Artworks.RefCam/4.01.04/python/refcam/refcam_image.py",
+		"/Y/cadet/External.Python.PyWin32/2.7/Assemblies/pythoncom.py",
+		"/Y/cadet/External.Python.PyWin32/2.7/Assemblies/win32/lib/pywintypes.py",
+		"/Y/cadet/External.Python.PyWin32/2.7/Assemblies/win32/_win32sysloader.pyd",
+		"/Y/cadet/Artworks.Lib/1.02.29/python/lib/artworks/com_util.py",
+		"/Y/cadet/Proxy.Maya/1.00.09/scripts/cadetSetup.mel",
+		"/Y/cadet/EAK/HeadTransfer.FIFA/MouthFixer.py",
+		"/Y/cadet/Artworks.Frostbite.MayaPlugins.Python/fo4/EyesTest.py",
+		"/Y/cadet/EAK/HeadTransfer.FIFA/warpImageFo3Fo4.py",
+		"/Y/cadet/Artworks.RefCam/4.01.04/plugins/refcam_relay.py",
+		"/C/Program Files/Autodesk/Maya2016/scripts/shelves/shelf_Animation.mel",
+		"/D/Workspace/cadet/Internal.GameChanger.FIFA/2016.4.1.320985/Sports/maya/scripts/gameExplorer.mel",
+		"/D/Workspace/FLAP_FO3/phoenix/art/source/FLAP_1.050_FO3/FLAPServer/FLAPClickOnce/bin/Debug/FLAPGUISettings.xml",
+		"/D/Workspace/FLAP_FO3/phoenix/art/source/FLAP_1.050_FO3/ArtPlugin/bin/Debug/FLAPGUISettings.xml",
+		"/Y/FLAP_FO3/phoenix/art/source/FLAP_1.050_FO3/FLAPServer/Debug/FLAPGUISettings.default.xml",
+		"/C/Users/hapark/AppData/Roaming/1.0.0.0/FLAPGUISettings.xml",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_transferheadweighttohairgeometries.py",
+		"/Y/cadet__/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_transferheadweighttohairgeometries.py",
+		"/D/Workspace/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/fifa_convertionheadgeoforFO4.py",
+		"/Y/cadet/Internal.GameChanger.FIFA/2016.4.1.320985/Sports/maya/scripts/geManagedLoadSave.mel",
+		"/C/Users/hapark/Desktop/Head_Py/Head_TestPyFile.py",
+		"/F/Backup/Phython/MayaVertexControl/MayaVertexControl.py",
+		"/Y/cadet/Artworks.Frostbite.MayaPlugins.Python/fo4/Fo3Fo4conversion/EyesTest.py",
+		"/Y/cadet__/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_mouthbagformobile.py",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.69/python/fifa_libs/eyecreator_utilities.py",
+		"/Y/cadet/Artworks.Lib/1.02.29/python/lib/artworks/cadet_util.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/EyesTest.py",
+		"/Y/Use_Job_Files/HeadConverting/EyesTest.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_mouthbagformobile.py",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/fifa_prepareheadgeoformobile.py",
+		"/D/Workspace/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/mobile_head/fifa_transferheadweighttohairgeometries.py",
+		"/C/Users/hapark/Desktop/Head_Py/temp_Manual.py",
+		"/C/Users/hapark/Desktop/Head_Py/Head_Fo3Fo4conversion",
+		"/Y/cadet/Artworks.Utilities.FIFAGolds/1.01.23/python/__init__.py",
+		"/C/Users/hapark/Desktop/exexex.py",
+		"/C/Users/hapark/Desktop/dddd.py",
+		"//apseo-fo-art/TOOLS/Update_Cadet/OfficeCameraInfoExport.FIFA/officeCameraInfoExport.py",
+		"/Y/cadet/EAK/BannerTool.FIFA/flag_creation.py",
+		"/Y/cadet/Artworks.Utilities.FIFA/18.00.28/python/fifa_FE_render.py",
+		"/F/Backup/Phython/카메라정보값저장/cam_01.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assetdbfilename_ng",
+			"assetxls_ng",
+			"TexCoords",
+			"add",
+			"main",
+			"subtra",
+			"RealTime",
+			"time",
+			"multiply",
+			"subtract",
+			"dbfilename",
+			"prebuiltdbxlsdir",
+			"productxls_temp",
+			"temp",
+			"aixls",
+			"assetxls",
+			"assetxls_ng",
+			"textures.rx3",
+			"texture",
+			"textures",
+			"AddAssetEx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Ajax.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
